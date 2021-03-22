@@ -1,0 +1,13 @@
+C:\Users\pablo\source\repos\A133590.Actividad01\bin\Debug\netcoreapp3.1\A133590.Actividad01.exe
+C:\Users\pablo\source\repos\A133590.Actividad01\bin\Debug\netcoreapp3.1\A133590.Actividad01.deps.json
+C:\Users\pablo\source\repos\A133590.Actividad01\bin\Debug\netcoreapp3.1\A133590.Actividad01.runtimeconfig.json
+C:\Users\pablo\source\repos\A133590.Actividad01\bin\Debug\netcoreapp3.1\A133590.Actividad01.runtimeconfig.dev.json
+C:\Users\pablo\source\repos\A133590.Actividad01\bin\Debug\netcoreapp3.1\A133590.Actividad01.dll
+C:\Users\pablo\source\repos\A133590.Actividad01\bin\Debug\netcoreapp3.1\A133590.Actividad01.pdb
+C:\Users\pablo\source\repos\A133590.Actividad01\obj\Debug\netcoreapp3.1\A133590.Actividad01.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\A133590.Actividad01\obj\Debug\netcoreapp3.1\A133590.Actividad01.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\A133590.Actividad01\obj\Debug\netcoreapp3.1\A133590.Actividad01.AssemblyInfo.cs
+C:\Users\pablo\source\repos\A133590.Actividad01\obj\Debug\netcoreapp3.1\A133590.Actividad01.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\A133590.Actividad01\obj\Debug\netcoreapp3.1\A133590.Actividad01.dll
+C:\Users\pablo\source\repos\A133590.Actividad01\obj\Debug\netcoreapp3.1\A133590.Actividad01.pdb
+C:\Users\pablo\source\repos\A133590.Actividad01\obj\Debug\netcoreapp3.1\A133590.Actividad01.genruntimeconfig.cache
